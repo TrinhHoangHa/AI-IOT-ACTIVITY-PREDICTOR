@@ -1,8 +1,3 @@
-Tôi sẽ giúp bạn thêm nội dung đã trang trí vào tài liệu gốc. Dưới đây là phiên bản đầy đủ của file với các icon được thêm vào để tăng tính sinh động, sử dụng ký hiệu Unicode phù hợp với môi trường text. Bạn có thể sao chép nội dung này vào file của mình.
-
----
-
-```
 # AI-IOT Activity Predictor 🌟
 
 Dự án này được thiết kế để dự đoán các hoạt động của con người trong thời gian thực bằng cách sử dụng dữ liệu cảm biến từ thiết bị ESP32. Dữ liệu được xử lý bằng mô hình Transformer được triển khai trong TensorFlow. 🚀
@@ -124,13 +119,4 @@ Sử dụng địa chỉ IP này để cấu hình thiết bị ESP32 của bạ
 
 - Nếu bạn gặp vấn đề khi load mô hình hoặc scaler, đảm bảo các file được đặt đúng trong thư mục `processed_data`. 📁
 - Đối với các vấn đề khác, tham khảo các thông báo lỗi in ra trong console để gỡ lỗi. 💡
-```
 
----
-
-### Hướng dẫn thêm vào file:
-1. Mở file tài liệu gốc của bạn (ví dụ: `README.md` hoặc một file text khác).
-2. Sao chép toàn bộ nội dung trên và dán vào file đó, thay thế nội dung cũ nếu cần.
-3. Lưu file lại.
-
-Nếu bạn đang sử dụng môi trường hỗ trợ Markdown (như GitHub) hoặc HTML, các ký hiệu Unicode (🌟, 🚀, 📋, v.v.) sẽ hiển thị dưới dạng emoji, làm cho tài liệu trông sinh động hơn. Nếu bạn muốn thêm hình ảnh hoặc icon khác, bạn có thể thay thế các ký hiệu này bằng đường dẫn hình ảnh (ví dụ: `![icon](path/to/icon.png)` trong Markdown).
