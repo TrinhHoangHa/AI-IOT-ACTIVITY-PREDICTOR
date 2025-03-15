@@ -1,12 +1,33 @@
-🎓 DaiNam University Plagiarism Detection System
-DaiNam University Logo AIoTLab Logo
+# AI-IOT Activity Predictor 🌟
 
-Made by AIoTLab Faculty of IT DaiNam University
+<div align="center">
 
-🔬 Advanced Academic Integrity Through AI Innovation
-A Next-Generation Plagiarism Detection System Powered by Deep Learning and Vector Search Technology
+<p align="center">
+  <img src="docs/images/logo.png" alt="DaiNam University Logo" width="200"/>
+  <img src="docs/images/AIoTLab_logo.png" alt="AIoTLab Logo" width="170"/>
+</p>
 
-Architecture • Features • Tech Stack • Installation • Getting Started • Docs
+[![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://fit.dainam.edu.vn)
+[![Faculty of IT](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-green?style=for-the-badge)](https://fit.dainam.edu.vn)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
+
+
+</div>
+
+<h3 align="center">🔬 Advanced Academic Integrity Through AI Innovation</h3>
+
+<p align="center">
+  <strong>A Next-Generation Plagiarism Detection System Powered by Deep Learning and Vector Search Technology</strong>
+</p>
+
+<p align="center">
+  <a href="#-architecture">Architecture</a> •
+  <a href="#-key-features">Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-documentation">Docs</a>
+</p>
 # AI-IOT Activity Predictor 🌟
 
 Dự án này được thiết kế để dự đoán các hoạt động của con người trong thời gian thực bằng cách sử dụng dữ liệu cảm biến từ thiết bị ESP32. Dữ liệu được xử lý bằng mô hình Transformer được triển khai trong TensorFlow. 🚀
