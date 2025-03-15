@@ -1,3 +1,12 @@
+🎓 DaiNam University Plagiarism Detection System
+DaiNam University Logo AIoTLab Logo
+
+Made by AIoTLab Faculty of IT DaiNam University
+
+🔬 Advanced Academic Integrity Through AI Innovation
+A Next-Generation Plagiarism Detection System Powered by Deep Learning and Vector Search Technology
+
+Architecture • Features • Tech Stack • Installation • Getting Started • Docs
 # AI-IOT Activity Predictor 🌟
 
 Dự án này được thiết kế để dự đoán các hoạt động của con người trong thời gian thực bằng cách sử dụng dữ liệu cảm biến từ thiết bị ESP32. Dữ liệu được xử lý bằng mô hình Transformer được triển khai trong TensorFlow. 🚀
