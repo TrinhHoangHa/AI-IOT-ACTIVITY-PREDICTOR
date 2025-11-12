@@ -149,3 +149,4 @@ Sử dụng địa chỉ IP này để cấu hình thiết bị ESP32 của bạ
 
 - Nếu bạn gặp vấn đề khi load mô hình hoặc scaler, đảm bảo các file được đặt đúng trong thư mục `processed_data`. 📁
 - Đối với các vấn đề khác, tham khảo các thông báo lỗi in ra trong console để gỡ lỗi. 💡
+
